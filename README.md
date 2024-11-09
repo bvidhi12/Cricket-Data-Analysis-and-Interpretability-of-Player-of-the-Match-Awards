@@ -1,4 +1,4 @@
-# Cricket-Data-Analysis-and-Interpretability-of-Player-of-the-Match-Awards
+# Cricket Data Analysis and Interpretability of Player of the Match Awards
 
 
 Cricket, often hailed as a sport that blends skill, strategy, and precision, has undergone a transformative journey over the years. The motivation behind this data analysis project lies in the recognition of the pivotal role data plays in assessing
